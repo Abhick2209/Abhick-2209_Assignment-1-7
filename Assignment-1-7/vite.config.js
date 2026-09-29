@@ -20,10 +20,7 @@ export default defineConfig({
 
   build: {
     rollupOptions: {
-      input: {
-        main: resolve(import.meta.dirname, 'index.html'),
-        ...assignmentPages,
-      },
+      input: assignmentPages,
     },
   },
 })
