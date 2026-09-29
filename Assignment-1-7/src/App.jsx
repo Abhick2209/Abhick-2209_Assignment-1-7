@@ -6,43 +6,43 @@ function App() {
     number: '01',
     title: 'Assignment 1',
     description: 'Explore the fundamentals and core concepts of web development.',
-    link: `${import.meta.env.BASE_URL}index.html`
+    link: `${import.meta.env.BASE_URL}assignment_1.html`
   },
   {
     number: '02',
     title: 'Assignment 2',
     description: 'A structured implementation demonstrating essential frontend techniques.',
-    link: `${import.meta.env.BASE_URL}index.html`
+    link: `${import.meta.env.BASE_URL}assignment_2.html`
   },
   {
     number: '03',
     title: 'Assignment 3',
     description: 'Interactive interface design with modern web development concepts.',
-    link: `${import.meta.env.BASE_URL}index.html`
+    link: `${import.meta.env.BASE_URL}assignment_3.html`
   },
   {
     number: '04',
     title: 'Assignment 4',
     description: 'A practical project featuring dynamic content and API integration.',
-    link: `${import.meta.env.BASE_URL}index.html`
+    link: `${import.meta.env.BASE_URL}assignment_4.html`
   },
   {
     number: '05',
     title: 'Assignment 5',
     description: 'Advanced frontend implementation with responsive user interfaces.',
-    link: `${import.meta.env.BASE_URL}index.html`
+    link: `${import.meta.env.BASE_URL}assignment_5.html`
   },
   {
     number: '06',
     title: 'Assignment 6',
     description: 'A complete application interface with organized components and functionality.',
-    link: `${import.meta.env.BASE_URL}index.html`
+    link: `${import.meta.env.BASE_URL}assignment_6.html`
   },
   {
     number: '07',
     title: 'Assignment 7',
     description: 'A refined application project bringing together advanced React concepts.',
-    link: `${import.meta.env.BASE_URL}index.html`
+    link: `${import.meta.env.BASE_URL}assignment_7.html`
   }
 ]
 
