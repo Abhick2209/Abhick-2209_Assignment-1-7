@@ -6,7 +6,7 @@ import { resolve } from 'node:path'
 const assignmentPages = Object.fromEntries(
   [1, 2, 3, 4, 5, 6, 7].map((n) => [
     `assignment_${n}`,
-    resolve(import.meta.dirname, `src/assignment_${n}/index${n}.html`),
+    resolve(import.meta.dirname, `src/assignment_${n}/index.html`),
   ])
 )
 
